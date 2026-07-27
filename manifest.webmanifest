@@ -1,0 +1,9 @@
+{
+  "name": "训练手记",
+  "short_name": "训练手记",
+  "start_url": "./training-journal.html",
+  "display": "standalone",
+  "background_color": "#f5f7f5",
+  "theme_color": "#15231d",
+  "lang": "zh-CN"
+}
